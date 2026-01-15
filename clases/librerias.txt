@@ -1,0 +1,5 @@
+liase librerias:
+- no visuales 
+- visuales
+- codigo fuente
+- documentacion
