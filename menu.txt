@@ -15,6 +15,16 @@ esta es la estructuras del menu de la aplicacion web en json
             "title": "Contact",
             "url": "/contact",
             "icon": "contact"
+        },
+        {
+            "title": "Login",
+            "url": "/login",
+            "icon": "login"
+        },
+        {
+            "title": "Register",
+            "url": "/register",
+            "icon": "register"
         }
     ]
 }
