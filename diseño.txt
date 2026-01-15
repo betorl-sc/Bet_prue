@@ -3,4 +3,5 @@ se mejoro el diseño del programa
 agregando colores y formato
 para mostra un programa mas profesional
 paleta de colores de la pantalla
-lsito de colores mal usados y mal diseñados
+lista de colores mal usados y mal diseñados
+mas datos de la aplicación 
