@@ -2,3 +2,4 @@ se crea un archivo con el nombre de diseño.txt para mejorar el diseño del prog
 se mejoro el diseño del programa
 agregando colores y formato
 para mostra un programa mas profesional
+paleta de colores de la pantalla
