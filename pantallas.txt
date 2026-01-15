@@ -1,0 +1,1 @@
+se crea un archivo con el nombre de panatllas.txt para mejorar el diseño de la pantalla del programa
