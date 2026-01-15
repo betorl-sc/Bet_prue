@@ -6,3 +6,6 @@ se mejoro la forma de programar con nuevas librerias
 2. Crear un archivo con el nombre de diseño.txt para mejorar el diseño del programa
 3. Crear un archivo con el nombre de panatllas.txt para mejorar el diseño de la pantalla del programa
 4. Crear un archivo con el nombre de menu.txt para mejorar el diseño del menu de la aplicacion web
+
+
+a la espera de la siguente reunion para la muestra de camios 
