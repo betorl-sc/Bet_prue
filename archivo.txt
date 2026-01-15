@@ -1,6 +1,6 @@
 este nuevo proyecto espara desarrollar un nuevo progrma en laravel para el desarrollo de una aplicación web
 lista de tareas
-
+se mejoro la forma de programar con nuevas librerias
 1. Crear un archivo con el nombre de archivo.txt para mejorar el diseño del programa
 2. Crear un archivo con el nombre de diseño.txt para mejorar el diseño del programa
 3. Crear un archivo con el nombre de panatllas.txt para mejorar el diseño de la pantalla del programa
